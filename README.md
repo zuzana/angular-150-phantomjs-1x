@@ -10,7 +10,7 @@ This project is generated with yo angular generator version 0.15.1. I only chang
 
 1. Prepare project
 
-        git clone git@github.disney.com:Zuzana-X-Harcarikova--ND/angular-150-issue.git
+        git clone git@github.com:zuzana/angular-150-phantomjs-1x.git
         cd angular-150-issue
         npm install
         bower install
