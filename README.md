@@ -2,9 +2,9 @@
 
 ## Why
 
-This project is to demonstrate problem with Phantomjs and Angular 1.5
+This project exists to demonstrate problem with Phantomjs and Angular 1.5
 
-This project is generated with yo angular generator version 0.15.1. I only changed package.json to demonstrate the problem with PhantomJs 1.x.
+This project is generated with [yo angular generator version 0.15.1](https://github.com/yeoman/generator-angular). I only changed package.json to demonstrate the problem with PhantomJs 1.x.
 
 ## Step by Step
 
