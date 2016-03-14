@@ -10,8 +10,8 @@ This project is generated with yo angular generator version 0.15.1. I only chang
 
 1. Prepare project
 
-        git clone git@github.com:zuzana/angular-150-phantomjs-1x.git
-        cd angular-150-issue
+        git clone https://github.com/zuzana/angular-150-phantomjs-1x.git
+        cd angular-150-phantomjs-1x
         npm install
         bower install
 
@@ -43,8 +43,6 @@ This project is generated with yo angular generator version 0.15.1. I only chang
         npm install karma-phantomjs-launcher@0.2.3
 
         npm install phantomjs-polyfill --save-dev
-
-
 
 1. Now uncomment line 24 in `test/karma.conf.js` (`// PHANTOMJS POLYFILL`)
 
